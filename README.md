@@ -47,4 +47,4 @@ Deployment: Netlify / Vercel / GitHub Pages
 
 ✅ Multi-language support
 
-✅ More detailed project case studies
+
